@@ -16,5 +16,5 @@ function saque($jogadas) {
         }
     }    
 }
-echo saque("0:0");
+echo saque("2:3");
 ?>
